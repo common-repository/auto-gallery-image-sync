@@ -1,0 +1,123 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Automatic Gallery And Featured Image Sync\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-13 06:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: auto-gallery-image-sync"
+
+#. Author of the plugin
+msgid "Atakan Au"
+msgstr ""
+
+#. Name of the plugin
+msgid "Automatic Gallery And Featured Image Sync"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Automatically sync posts (or WooCommerce Product) and media images as "
+"featured image and gallery."
+msgstr ""
+
+#. parent page slug
+#: admin/class-auto-gallery-image-sync-admin.php:112
+msgid "Sync image"
+msgstr ""
+
+msgid "Sync images"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter by Post Type"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "No posts found."
+msgstr ""
+
+msgid "Sync with Id"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Featured image"
+msgstr ""
+
+msgid "Sync by id"
+msgstr ""
+
+msgid "Sync by SKU"
+msgstr ""
+
+msgid "Present"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Sync with SKU (Pro)"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid ""
+"Visit my blog for documentation, support and feedback. The ads on the "
+"website may help me earn some tip. ;)"
+msgstr ""
+
+msgid "Please help me continue development by giving the plugin a 5 star."
+msgstr ""
+
+msgid "Share plugin"
+msgstr ""
+
+msgid "%d media file synced as featured image."
+msgid_plural "%d media files synced as featured image."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Image gallery has been added to %d product."
+msgid_plural "Image gallery has been added to %d products."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "None selected."
+msgstr ""
+
+msgid "Synchronization could not be processed because no match was found."
+msgstr ""
+
+msgid "Image gallery"
+msgstr ""
+
+msgid "Please backup your database first. The operation is irreversible!"
+msgstr ""

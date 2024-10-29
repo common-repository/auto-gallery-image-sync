@@ -1,0 +1,32 @@
+/**
+ * All of the CSS styles for admin-specific
+ */
+.wp-list-table .column-type { width: 15%; }
+.wp-list-table .column-date { width: 12%; }
+.wp-list-table .column-status { width: 4%; }
+.wp-list-table .column-present { width: 15%; }
+.dashicons-dismiss { color: #b32d2e; }'
+.title.column-title.has-row-actions.column-primary {
+	max-width: 100px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.wrap a i {
+	font-size: 18px;
+	line-height: 21px;
+	text-decoration-line: unset;
+}
+.wrap .notice-warning {
+	border-color:#dba617;
+}
+.wrap .notice-error {
+	border-color:#d63638;
+}
+.wrap .notice-info {
+	border-color:#72aee6
+}
+.wrap .notice-success {
+	border-color:#00a32a
+}
