@@ -4,7 +4,7 @@ Author link: https://atakanau.blogspot.com
 Tags: image, gallery, sync, auto, featured image
 Requires at least: 3.0.1
 Requires PHP: 5.6
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
